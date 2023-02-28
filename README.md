@@ -1,4 +1,4 @@
-# Generating Room level occupancy combinations for a hotel for given occupancy using Golang.
+# Generating Room level occupancy combinations for a hotel using Golang.
 
 ## Steps to follow:-
 
